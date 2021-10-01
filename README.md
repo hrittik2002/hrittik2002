@@ -1,4 +1,4 @@
-                                                                        👋 Hi, I’m Hrittik Garain
+                                                                        -👋 Hi, I’m Hrittik Garain
 - 👀 I’m interested in Competitive Programming and Android Development
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me ...
