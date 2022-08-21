@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hrittikgarain@gmail.com**
 
-- ⚡ Mail me if you need **any website or app developer**
+- ⚡ Mail me if you are looking for **a Web / App developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
