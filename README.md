@@ -32,24 +32,6 @@ Currently open to **remote full-time or contract roles**.
 
 ---
 
-## 💼 What I've Built
-
-### Publishing Platform *(SaaS, Production)*
-- Architected event-driven content approval pipelines across microservices
-- Designed RESTful APIs following clean architecture principles
-- Provisioned and deployed on Linux VPS with Nginx + PM2
-- Mentored junior engineers and defined API contracts across distributed teams
-
-### Real-Time Device Communication 
-- Built real-time device communication using WebSockets + Node.js
-- Integrated third-party services using the Adapter Design Pattern
-- Contributed to RabbitMQ-based microservices event communication
-
-### Frontend Performance Optimization 
-- Reduced page load time by **30%** through targeted performance optimization
-- Improved user retention by **25%** via optimized state management and API handling
-
----
 
 ## 📌 Featured Projects
 
