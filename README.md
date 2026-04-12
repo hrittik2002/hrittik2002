@@ -34,33 +34,26 @@ Currently open to **remote full-time or contract roles**.
 
 ## 💼 What I've Built
 
-### Publishing Platform — Cloudtara Technologies *(2025–2026)*
-Led end-to-end development of a client-facing SaaS publishing platform.
+### Publishing Platform *(SaaS, Production)*
 - Architected event-driven content approval pipelines across microservices
 - Designed RESTful APIs following clean architecture principles
-- Provisioned and deployed on Linux VPS (Nginx + PM2)
-- Mentored junior engineers and defined API contracts across teams
+- Provisioned and deployed on Linux VPS with Nginx + PM2
+- Mentored junior engineers and defined API contracts across distributed teams
 
-### Real-Time Device Communication — FlytBase *(2024–2025)*
+### Real-Time Device Communication 
 - Built real-time device communication using WebSockets + Node.js
 - Integrated third-party services using the Adapter Design Pattern
 - Contributed to RabbitMQ-based microservices event communication
 
-### Frontend Performance — Xempla *(2023–2024)*
-- Reduced page load time by **30%** through performance optimization
-- Improved user retention by **25%** via optimized state management
+### Frontend Performance Optimization 
+- Reduced page load time by **30%** through targeted performance optimization
+- Improved user retention by **25%** via optimized state management and API handling
 
 ---
 
 ## 📌 Featured Projects
 
-> 🚧 *Showcase projects coming soon — currently building open-source versions of production systems*
-
-<!-- 
-PIN THESE ONCE BUILT:
-- real-time-notification-service
-- nestjs-multitenant-api
--->
+> 🚧 Open-source projects in progress — building public versions of production systems I've worked on
 
 ---
 
@@ -76,7 +69,7 @@ PIN THESE ONCE BUILT:
 
 ## 📬 Open to Remote Work
 
-I'm currently looking for **remote backend or full stack roles**.
-If you're building something interesting with Node.js, TypeScript, or distributed systems — let's talk.
+Looking for **remote backend or full stack roles**.
+If you're building with Node.js, TypeScript, or distributed systems — let's talk.
 
-**Email:** hrittikgarain.professional@gmail.com
+📫 hrittikgarain.professional@gmail.com
