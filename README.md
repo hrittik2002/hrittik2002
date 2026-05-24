@@ -66,12 +66,6 @@ strategy and token-by-token SSE streaming over RabbitMQ.
 
 ---
 
-### 🤖 AI Assistant with Persistent Memory *(coming soon)*
-Multi-turn agent with vector + graph memory — context-aware across sessions.
-
-`mem0` `Qdrant` `Neo4j` `LangChain`
-
----
 
 ## 📬 Open to Remote Roles
 
