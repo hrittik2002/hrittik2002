@@ -1,57 +1,58 @@
-# Hrittik Garain — Backend / Full Stack Engineer
+# Hrittik Garain — AI Engineer · Full Stack
+**Node.js · TypeScript · NestJS · Next.js · LangChain · LangGraph · RAG · Agents**
 
-**Node.js · TypeScript · NestJS · Next.js · MongoDB · Distributed Systems**
+2+ years building production SaaS platforms and AI-powered systems —
+from distributed backend architecture to agentic AI pipelines.
 
-2+ years building production SaaS platforms — from system architecture to Linux deployment.
-Currently open to **remote full-time or contract roles**.
+📫 hrittikgarain.professional@gmail.com &nbsp;|&nbsp; 📍 Kolkata, India · Remote
 
-📫 hrittikgarain.professional@gmail.com &nbsp;|&nbsp; 📍 Kolkata, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrittik-garain-693160197/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Top_8%25-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/hrittik-garain-693160197)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5★_|_2020-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com/users/hrittik2002)
 
 ---
 
-## 🛠 Tech Stack
+## 🤖 AI & GenAI Stack
+`LangChain` `LangGraph` `LangSmith` `mem0` `Qdrant` `OpenAI API`
+`RAG Pipelines` `AI Agents` `Tool Calling` `Vector Databases` `Prompt Engineering`
 
-**Backend**
-`Node.js` `TypeScript` `NestJS` `Express.js` `REST APIs` `WebSockets` `FastAPI`
-
-**Frontend**
+## 🛠 Backend & Full Stack
+`Node.js` `TypeScript` `NestJS` `Express.js` `FastAPI` `REST APIs` `WebSockets`
 `React` `Next.js` `Redux`
 
-**Architecture & Systems**
-`Microservices` `Event-Driven Architecture` `Distributed Systems` `RabbitMQ` `Redis`
-
-**Databases**
-`MongoDB` `SQL`
-
-**DevOps & Infra**
-`Linux` `Nginx` `PM2` `Docker`
+## ⚙️ Architecture & Infrastructure
+`Microservices` `Event-Driven Architecture` `RabbitMQ` `Redis`
+`MongoDB` `SQL` `Docker` `Linux` `Nginx` `PM2`
 
 ---
-
 
 ## 📌 Featured Projects
 
-> 🚧 Open-source projects in progress — building public versions of production systems I've worked on
+### 🎙️ [voice2code](https://github.com/hrittik2002/voice2code) — Voice-Native AI Coding Agent
+Talk to your computer. Watch it code.
+An open-source agentic coding assistant powered by **LangGraph** — speak a feature, describe a bug,
+ask for a refactor, and the AI agent executes it in real time via shell.
+
+`Python` `LangGraph` `GPT-4.1` `SpeechRecognition` `Agentic Loop` `Tool Calling`
 
 ---
 
-## 📊 Competitive Programming
+### 🧠 Corrective RAG Pipeline *(coming soon)*
+Production-grade RAG with retrieval grading, query rewriting, and web search fallback.
 
-| Platform | Rating | Rank |
-|---|---|---|
-| LeetCode | 1759 | Top 8% |
-| CodeChef | 2020 | Div 2 — Rank 287 |
-| Codeforces | 1317 | Pupil |
+`LangGraph` `Qdrant` `OpenAI` `FastAPI`
 
 ---
 
-## 📬 Open to Remote Work
+### 🤖 AI Assistant with Persistent Memory *(coming soon)*
+Multi-turn agent with vector + graph memory — context-aware across sessions.
 
-Looking for **remote backend or full stack roles**.
-If you're building with Node.js, TypeScript, or distributed systems — let's talk.
+`mem0` `Qdrant` `Neo4j` `LangChain`
+
+---
+
+## 📬 Open to Remote Roles
+
+Building with AI, Node.js, or TypeScript? Let's talk.
+I'm open to **AI Engineer**, **Backend Engineer**, and **Full Stack Engineer** roles — remote, full-time or contract.
 
 📫 hrittikgarain.professional@gmail.com
