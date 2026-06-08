@@ -1,6 +1,6 @@
 # Hrittik Garain — AI Engineer · Full Stack
 
-**Node.js · TypeScript · NestJS · Next.js · LangChain · LangGraph · RAG · Agents**
+**Node.js · TypeScript · NestJS · Next.js · Python · LangChain · LangGraph · RAG · Agents**
 
 📫 hrittikgarain.professional@gmail.com &nbsp;|&nbsp; 📍 Kolkata, India · Remote
 
